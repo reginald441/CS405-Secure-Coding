@@ -1,3 +1,0 @@
-C:\Users\reginkar\Downloads\CS405_M4_UnitTesting\x64\Debug\gtest.pdb
-C:\Users\reginkar\Downloads\CS405_M4_UnitTesting\x64\Debug\gtest_main.pdb
-C:\Users\reginkar\Downloads\CS405_M4_UnitTesting\CS405_M4.911eb4d9\x64\Debug\CS405_M4.132FFB28.Up2Date
